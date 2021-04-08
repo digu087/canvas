@@ -1,6 +1,6 @@
 {
-    "name": "austintoddj/canvas",
-    "description": "A Laravel publishing platform",
+    "name": "digvijay/canvas",
+    "description": "Updated version of (austintoddj/canvas)",
     "keywords": ["blog", "canvas", "laravel", "publishing", "platform"],
     "license": "MIT",
     "homepage": "https://trycanvas.app",
